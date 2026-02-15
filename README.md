@@ -6,22 +6,18 @@ Backend Engineer building secure, production-ready APIs, webhook systems, and au
 
 
 ## What I Work With
-
-- Python (FastAPI)
-- PostgreSQL
-- Docker
-- JWT Authentication
-- Webhooks & Event Validation
-- REST API Design
-- Async Processing
-
+	•	Backend: Python (FastAPI), REST API Design
+	•	Security: JWT Authentication, HMAC Signature Validation
+	•	Database: PostgreSQL, SQLAlchemy
+	•	Infrastructure: Docker, Containerized Deployments
+	•	Architecture: Async Processing, Background Jobs, Event-Driven Systems
 ## Featured Projects
 
 ### Automation Job Scheduler API
-Dockerized FastAPI service for authenticated background job execution with retry logic and PostgreSQL persistence.
+Dockerized FastAPI service for authenticated background job execution with retry policies, job lifecycle tracking, and PostgreSQL persistence.
 
 ### Secure Webhook Processor
-HMAC-verified webhook API with signature validation, event logging, and containerized deployment.
+HMAC-verified webhook ingestion API with signature validation, event logging, replay protection, and Dockerized deployment.
 
 ### Automated Trading & Execution Bot
 Python-based system integrating external APIs with structured logging and retry handling.
@@ -30,7 +26,12 @@ Python-based system integrating external APIs with structured logging and retry 
 
 - Backend architecture
 - Production-ready API systems
-- Scalable automation tools
+- Scalable automation Tools 
+
+##Engineering Focus 
+Designing reliable backend systems that handle failure, retries, authentication, and production-grade deployment.
+
+
 
 ## Open To
 
