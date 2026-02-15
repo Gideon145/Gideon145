@@ -28,7 +28,7 @@ Python-based system integrating external APIs with structured logging and retry 
 - Production-ready API systems
 - Scalable automation Tools 
 
-##Engineering Focus 
+## Engineering Focus 
 
 Designing reliable backend systems that handle failure, retries, authentication, and production-grade deployment.
 
