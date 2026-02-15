@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 # Opukeme Perekeme Gideon
 
 Backend Engineer focused on building secure, production-ready APIs and automation systems.
