@@ -1,7 +1,9 @@
 ## Hi there 
 # Opukeme Perekeme Gideon
 
-Backend Engineer focused on building secure, production-ready APIs and automation systems.
+Backend Engineer building secure, production-ready APIs, webhook systems, and automation platforms with Python & FastAPI.
+
+
 
 ## What I Work With
 
