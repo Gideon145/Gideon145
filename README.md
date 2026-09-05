@@ -1,4 +1,4 @@
-## Hi, I'm Gideon 👋
+﻿## Hi, I'm Gideon 👋
 
 **Cybersecurity Engineer** — MSc Cyber Security, University of Aberdeen. I build detection and response tooling at the intersection of AI security, threat intelligence, and protocol design.
 
@@ -28,7 +28,7 @@
 
 ### Recognition
 
-- 🏆 OKX.AI Inaugural Hackathon Winner
+- 🏆 OKX Build X Season 2 Global Hackathon Winner
 - 🔬 MIT Media Lab Contributor
 - 🛡️ SigmaHQ Merged Detection Rule Contributor
 - ✅ ChainGPT 5/5 Security Audit
